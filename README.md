@@ -1,44 +1,50 @@
-🛒 Gender-Based Customer Churn Analysis
-📌 Overview
-This project analyzes churn behavior in an eCommerce platform with a specific focus on how male and female customer behaviors differ. The goal is to identify patterns, uncover actionable insights, and recommend gender-tailored business strategies to reduce churn and improve customer lifetime value (CLV).
+# 🛒 Gender-Based Customer Churn Analysis
 
-🎯 Objectives
-Identify at-risk customers using churn prediction models
+## 📌 Overview  
+This project explores customer churn behavior in an eCommerce setting with a focus on **gender-based behavioral differences**. The goal is to analyze how male and female customers behave differently and provide **data-driven business solutions** to improve retention and customer lifetime value (CLV).
 
-Analyze behavioral and engagement differences between male and female users
+---
 
-Provide actionable recommendations to reduce churn and boost retention
+## 🎯 Objectives  
+- Identify at-risk customers using churn-related behavioral data  
+- Analyze engagement and shopping trends by gender  
+- Provide actionable business recommendations to reduce churn  
+- Improve user experience and satisfaction
 
-Improve customer satisfaction and app engagement
+---
 
-📊 Key Findings & Business Actions
-🔸 Churn Rate by Gender
-Males churn more (17.73%) than females (15.49%)
-➤ Action: Survey churned males to find pain points, and launch loyalty programs tailored to them.
+## 📊 Key Findings & Business Actions
 
-🔸 Order Frequency
-Females place slightly more frequent orders
-➤ Action: Encourage frequent purchases from male users via targeted incentives and premium programs.
+- **Churn Rate:**  
+  Males churn at a higher rate (17.73%) than females (15.49%)  
+  ➤ *Action:* Launch male-focused loyalty programs and collect feedback via surveys
 
-🔸 App Engagement (Order Count vs. Hours Spent)
-Positive correlation between app usage and order frequency for both genders
-➤ Action: Improve app features and UI to increase engagement.
+- **Order Frequency:**  
+  Females place slightly more frequent orders  
+  ➤ *Action:* Encourage male customers with targeted offers and premium perks
 
-🔸 Complaint Rates
-Females report slightly more complaints
-➤ Action: Enhance support and proactively address recurring issues.
+- **App Engagement:**  
+  Positive correlation between app usage and orders for both genders  
+  ➤ *Action:* Improve app UI and add interactive features to increase engagement
 
-🔸 Inactivity (Days Since Last Order)
-Males show longer gaps between purchases
-➤ Action: Use personalized re-engagement campaigns and exclusive offers.
+- **Complaints:**  
+  Females report slightly more complaints  
+  ➤ *Action:* Strengthen customer support and proactively address common issues
 
-🔸 Preferred Devices & Categories
-Males prefer mobile and shop for phones; females prefer laptops and accessories
-➤ Action: Tailor promotions by gender and preferred category/device.
+- **Inactivity (Days Since Last Order):**  
+  Males show longer gaps between purchases  
+  ➤ *Action:* Offer personalized reactivation offers and exclusive discounts
 
-🧰 Tools & Technologies
-Python (Pandas, Matplotlib, Seaborn)
+- **Preferred Devices & Categories:**  
+  - Males prefer mobile and buy phones  
+  - Females prefer laptops and accessories  
+  ➤ *Action:* Tailor marketing campaigns to reflect these preferences
 
-Jupyter Notebook
+---
 
-Data Analysis, Visualization, Business Strategy
+## 🧰 Tools & Technologies  
+- Python (Pandas, Matplotlib, Seaborn)  
+- Jupyter Notebook  
+- Exploratory Data Analysis & Business Insight Generation
+
+---
